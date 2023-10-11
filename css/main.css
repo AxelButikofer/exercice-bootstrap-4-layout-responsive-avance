@@ -39,6 +39,18 @@ video {
   vertical-align: middle;
 }
 
+.background-black {
+  background: #2b2d42;
+}
+
+.background-pink {
+  background: #f0e0ff;
+}
+
+.background-blue {
+  background: #92dce5;
+}
+
 .row + .row {
   margin-top: 16px;
 }
